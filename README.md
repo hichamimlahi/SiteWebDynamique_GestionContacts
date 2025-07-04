@@ -41,4 +41,4 @@ Les principales fonctionnalités incluent la création, modification, suppressio
 
 ## Auteur
 
-Hicham IMLAHI - [Ton Profil GitHub](https://github.com/hichamimlahi)
+[Hicham IMLAHI](https://github.com/hichamimlahi)
