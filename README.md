@@ -18,7 +18,7 @@ Les principales fonctionnalités incluent la création, modification, suppressio
 ## Installation
 
 1. Cloner le dépôt ou télécharger les fichiers  
-2. Configurer la base de données MySQL et importer le script SQL (si fourni)  
+2. Configurer la base de données MySQL et importer le script 
 3. Modifier le fichier `db.php` avec les informations de connexion à ta base de données  
 4. Lancer le serveur local (ex : XAMPP, WAMP, MAMP) et accéder au projet via le navigateur  
 
@@ -27,7 +27,7 @@ Les principales fonctionnalités incluent la création, modification, suppressio
 - PHP  
 - MySQL  
 - HTML/CSS  
-- (Optionnel) Bootstrap pour le design  
+- Bootstrap pour le design  
 
 ## Structure des fichiers
 
@@ -41,4 +41,4 @@ Les principales fonctionnalités incluent la création, modification, suppressio
 
 ## Auteur
 
-Ton Nom - [Ton Profil GitHub](https://github.com/hichamimlahi)
+Hicham IMLAHI - [Ton Profil GitHub](https://github.com/hichamimlahi)
